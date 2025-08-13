@@ -22,5 +22,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate contribution snake"
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "github-contribution-grid-snake.svg"
           branch: output
