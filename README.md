@@ -63,6 +63,13 @@
 
 ---
 
+<h2 align="center">🐍 My Contributions</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shalini0528/shalini0528/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 <div align="center">
 <a href='https://buymeacoffee.com/shalikular5' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Buy Me a Coffee' /></a>
 </div>
